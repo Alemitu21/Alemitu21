@@ -1,16 +1,18 @@
-**Software Tester | QA Engineer | Manual & Automation Testing | Python | Selenium | Pytest | Jira | Postman | Git & GitHub**
+**Software Engineering Professional | Software Tester | QA Engineer | AI & Technology Enthusiast**
 
-Software Engineering professional passionate about **Software Quality Assurance, Manual Testing, and Test Automation**. Experienced in creating test cases, executing functional and regression tests, identifying and reporting defects, and building automated tests for web applications.
+Software Engineering professional with a broad background in **software development, software testing, quality assurance, automation, and artificial intelligence**. Passionate about building reliable, high-quality software and continuously exploring modern technologies and engineering practices.
 
-🔹 **Manual Testing:** Functional, Regression, Smoke, Sanity, Exploratory & UAT Testing
-🔹 **Automation:** Python, Selenium WebDriver, Pytest, Page Object Model (POM)
-🔹 **API Testing:** Postman, REST API Testing & API Validation
-🔹 **QA Tools:** Jira, Zephyr, Git, GitHub
-🔹 **Testing Practices:** SDLC, STLC, Agile/Scrum, Test Planning, Test Case Design, Defect Tracking
-🔹 **Technical Skills:** Python, Java, SQL, HTML, CSS
-🔹 **Projects:** E-Commerce, Banking/ATM Systems, Web Application & Automation Testing
+💻 **Software Development:** Python, Java, C++, PHP, SQL, HTML, CSS
+🧪 **Software Testing & QA:** Manual Testing, Functional Testing, Regression Testing, Exploratory Testing, Test Automation, Test Case Design, Defect Management
+🤖 **Test Automation:** Selenium WebDriver, Pytest, Python, Page Object Model (POM)
+🔌 **API Testing:** Postman, REST API Testing, API Validation
+📋 **QA & Project Tools:** Jira, Zephyr, Git, GitHub
+🔄 **Methodologies:** SDLC, STLC, Agile, Scrum, Continuous Testing
+🧠 **AI & Machine Learning:** Python, Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis
+☁️ **Interests:** Software Quality, Test Automation, AI, Web Technologies, Software Engineering, and Emerging Technologies
 
-🎯 **Career Goal:** Junior QA Engineer | Software Tester | Manual QA | Automation QA
+🌱 Continuously learning, building practical projects, and contributing to **high-quality, reliable, and innovative software solutions**.
 
-🌱 Continuously learning and building practical **QA automation and software testing projects**.
+🎯 **Open to opportunities in Software Engineering, Software Testing, QA, Test Automation, and AI-related roles.**
+
 
